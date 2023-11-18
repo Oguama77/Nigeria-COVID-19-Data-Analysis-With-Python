@@ -22,3 +22,6 @@ This data science project aims to leverage analytics techniques to unravel insig
 
 ## Future Work
 Future work on this project will involve the integration of more datasets to uncover more insights related to the effects of covid-19 on the Nigerian economy.<br>
+Investigation into the impact of vaccination on Covid-19 effects, both health-wise and economically.<br>
+Comparative analysis of Nigeria’s response and outcomes with other countries to gain insights and lessons for future pandemic preparedness.
+
