@@ -5,7 +5,7 @@ The unprecedented global outbreak of the coronavirus (COVID-19) has reshaped soc
 
 Nigeria, a nation characterized by its cultural diversity and vibrant population, comprises 37 states (including the Federal Capital Territory) and 6 geopolitical zones. The onset of COVID-19 in Nigeria was observed on February 27, 2020, marking a critical juncture in the nation's response to the pandemic.<br>
 
-This data science project aims to leverage analytics techniques to unravel insights from the COVID-19 data specific to Nigeria. By harnessing the power of data, the goal is to gain a comprehensive understanding of the disease's impact on various regions within the country and to explore intricate relationships between different variables and the reported number of cases.<br>
+This data science project aims to leverage analytics techniques to unravel insights from the COVID-19 data specific to Nigeria. By harnessing the power of data, the goal is to gain a comprehensive understanding of the disease's impact on various regions within the country and to explore intricate relationships between different variables and the number of reported cases.<br>
 
 
 ## Steps and Approaches
