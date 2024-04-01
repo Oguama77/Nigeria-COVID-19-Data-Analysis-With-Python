@@ -13,7 +13,7 @@ This data science project aims to leverage analytics techniques to unravel insig
     3 datasets were used:<br>
     1) The NCDC Covid-19 data from their official website (https://covid19.ncdc.gov.ng/)<br>
     2) The Johns Hopkins University (JHU) data on daily confirmed, death, and recovered cases across different countries<br>
-    3) The Nigeria COmmunity Vulnerability Index Data<br>
+    3) The Nigeria Community Vulnerability Index Data<br>
     
 ** Data Cleaning and Merging:<br>
     The data of interest was extracted from the 3 data sources, cleaned, and merged to form a dataframe<br>
